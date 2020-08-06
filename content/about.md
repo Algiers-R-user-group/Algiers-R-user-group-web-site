@@ -7,12 +7,15 @@ title: About
 
 ## Founding members:
 
--   **Wassim Medour**:
--   **Mohamed El Fodil Ihaddaden**: PhD candidate in Economics.
--   **Kamila Benadrouche**: Teacher at University M'Hamed Bouggera of Boumerdes.
--   **Nassim Kaddour**: 
--   **Adel Fiala**: 
--   **Hani Bounoua**: Support Research Engineer at CERIST.
+|:------------------------------:|:-----------------------------------------------------------:|
+| **Members**                    | **Fonction**                                                |
+|:------------------------------:|:-----------------------------------------------------------:|
+|**Wassim Medour**               ||
+|**Mohamed El Fodil Ihaddaden**  | PhD candidate in Economics.                                 |
+|**Kamila Benadrouche**          | Teacher at University M'Hamed Bouggera of Boumerdes.        |
+|**Nassim Kaddour**              ||
+|**Adel Fiala**                  ||
+|**Hani Bounoua**                | Support Research Engineer at CERIST.                        |
 
 
 ## Join us:
