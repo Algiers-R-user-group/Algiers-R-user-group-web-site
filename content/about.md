@@ -12,15 +12,16 @@ title: About
 |**Wassim Medour**               ||
 |**Mohamed El Fodil Ihaddaden**  | PhD candidate in Economics.                                 |
 |**Kamila Benadrouche**          | Teacher at University M'Hamed Bouggera of Boumerdes.        |
-|**Nassim Kaddour**              ||
+|**Nassim Kaddour**              | Actuary in Insurance sector                                  |
 |**Adel Fiala**                  ||
 |**Hani Bounoua**                | Support Research Engineer at CERIST.                        |
 
 
 ## Join us:
 
-
-
+- ![Facebook](https://www.facebook.com/groups/671457203450306/)
+- ![Twitter](https://twitter.com/algiers_r)
+- ![Github](https://github.com/Algiers-R-user-group)
 
 
 
