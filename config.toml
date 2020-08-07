@@ -11,18 +11,23 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[menu.main]]
+    new_tab = 0
     name = "About"
     url = "/about/"
 [[menu.main]]
+    new_tab = 0
     name = "Projects"
     url = "/projects/"
 [[menu.main]]
+    new_tab = 1
     name = "GitHub"
     url = "https://github.com/Algiers-R-user-group"
 [[menu.main]]
+    new_tab = 1
     name = "Facebook"
     url = "https://www.facebook.com/groups/671457203450306/?ref=bookmarks"
 [[menu.main]]
+    new_tab = 1
     name = "Twitter"
     url = "https://twitter.com/algiers_r"
 
