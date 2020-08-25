@@ -1,5 +1,5 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
+date: "2020-08-01"
 title: About
 ---
 
@@ -12,7 +12,7 @@ title: About
 |**Wassim Medour**               ||
 |**Mohamed El Fodil Ihaddaden**  | PhD candidate in Economics.                                 |
 |**Kamila Benadrouche**          | Teacher at University M'Hamed Bouggera of Boumerdes.        |
-|**Nassim Kaddour**              | Actuary in Insurance sector                                  |
+|**Nassim Kaddour**              | Actuary in Insurance sector                                 |
 |**Adel Fiala**                  ||
 |**Hani Bounoua**                | Support Research Engineer at CERIST.                        |
 
